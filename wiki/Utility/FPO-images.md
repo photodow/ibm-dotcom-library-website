@@ -24,7 +24,7 @@ A collection of For Position Only (FPO) images to be used throughout our example
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [[Box folder](https://ibm.ent.box.com/folder/129211903611)]
+- r1: [Box folder](https://ibm.ent.box.com/folder/129211903611)
 
 <br />
 </details>

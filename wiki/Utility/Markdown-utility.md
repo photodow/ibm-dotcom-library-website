@@ -27,7 +27,7 @@ By default, this utility will use Carbon Classes and strips out extraneous HTML 
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [[Box folder](https://ibm.ent.box.com/folder/101190012021)]
+- r1: [Box folder](https://ibm.ent.box.com/folder/101190012021)
 
 <br />
 </details>

@@ -24,7 +24,7 @@ The scroll into view utility tracks the viewable area within the browser window 
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [[Box folder](https://ibm.ent.box.com/folder/125890668467)]
+- r1: [Box folder](https://ibm.ent.box.com/folder/125890668467)
 
 <br />
 </details>

@@ -10,7 +10,7 @@ The Locale service manages calls to the Region List API <sup>[[r2](#resources)]<
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- Region List API <sup>[[r2](#resources)]</sup>
+- [[Region List API]] <sup>[[r2](#resources)]</sup>
 
 <br />
 </details>
@@ -23,7 +23,7 @@ The Locale service manages calls to the Region List API <sup>[[r2](#resources)]<
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [[Box folder](https://ibm.ent.box.com/folder/110804979975)]
+- r1: [Box folder](https://ibm.ent.box.com/folder/110804979975)
 - [Region List API](https://www.ibm.com/common/js/dynamicnav/www/countrylist/jsononly/usen-utf8.json)
 
 <br />

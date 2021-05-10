@@ -26,7 +26,7 @@ The scroll animations utility can be attached to any HTML element on the page. I
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [[Box folder](https://ibm.ent.box.com/folder/125890741222)]
+- r1: [Box folder](https://ibm.ent.box.com/folder/125890741222)
 
 <br />
 </details>

@@ -24,7 +24,8 @@ The Same Height Utility is a DOM height detection utility that will determine th
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [[Box folder](https://ibm.ent.box.com/folder/101236500418)]
+- r1: [Box folder](https://ibm.ent.box.com/folder/101236500418)
+
 <br />
 </details>
 

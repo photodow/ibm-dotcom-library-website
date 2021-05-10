@@ -10,7 +10,7 @@ The translation service fetches and stores data in an efficient way, mutates its
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
 - [[Locale]]
-- [Region List API](https://www.ibm.com/common/js/dynamicnav/www/countrylist/jsononly/usen-utf8.json)
+- [[Region List API]] <sup>[[r2](#resources)]</sup>
 
 <br />
 </details>
@@ -23,7 +23,8 @@ The translation service fetches and stores data in an efficient way, mutates its
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [[Box folder](https://ibm.ent.box.com/folder/110807491301)]
+- r1: [Box folder](https://ibm.ent.box.com/folder/110807491301)
+- [Region List API](https://www.ibm.com/common/js/dynamicnav/www/countrylist/jsononly/usen-utf8.json)
 
 <br />
 </details>
