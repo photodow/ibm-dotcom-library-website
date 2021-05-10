@@ -8,7 +8,7 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 *{{table of contents auto populates}}*
 <!-- toc end -->
 
-<details>
+<details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
 - [[Component name 1]]
@@ -26,11 +26,9 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 *{{backlinks auto populates}}*
 <!-- backlinks end -->
 
-<details>
-  <summary><strong>Resources</strong></summary>
-
-
-<br />
+<a name="resources"></a>
+<details open="true">
+  <summary><strong>Resources</strong></summary><br />
 
 - r1: [Resource 1]()
 - r2: [Resource 2]()
@@ -99,7 +97,7 @@ function example () { ... }
 
 ### Callout examples
 
-> 👀 &nbsp; Check something out
+> 👀 &nbsp; Check something out <sup>[[r1](#resources)]</sup>
 
 > 🚨 &nbsp; Identify a blocker
 
