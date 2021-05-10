@@ -1,6 +1,6 @@
 <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The scroll animations utility can be attached to any HTML element on the page. If used gingerly throughout a user experience it can provide delight, tell a story, or focus the user in on a particular moment. A scroll animation will trigger some animation like fade in, or slide over depending on whether the element is in view to the user or not.
 
 <hr width="40%" />
 
@@ -8,10 +8,8 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
-
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+  
+- [[Scroll into view]]
 
 <br />
 </details>
@@ -28,75 +26,13 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [Resource 1]()
-- r2: [Resource 2]()
-- r3: [Resource 3]()
+- r1: [[Box folder](https://ibm.ent.box.com/folder/125890741222)]
 
 <br />
 </details>
 
 <hr width="40%" />
 
-{{Overview image | full width}}
+<br />
 
-### 1. Level 1
-
-Brief description might go here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum.
-
-{{Scoped image | resize}}
-
-
-#### 1.1 Level 2
-Brief description might go here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum.
-
-{{Scoped image | resize}}
-
-###### Logic
-
-|        | condition  | description  |
-|:-------|:-----------|:-------------|
-| `1.1`  |            |              |
-|        |            |              |
-|        |            |              |
-
-###### States
-
-|   | condition   | value  |
-|:--|:------------|:-------|
-|   | `default`   |        |
-|   | `:hover`    |        |
-|   | `:focus`    |        |
-|   | `:active`   |        |
-|   | `:visited`  |        |
-
-###### Data
-
-|              | data  | type  | default  |
-|:-------------|:------|:------|:---------|
-| `required`   |       |       |          |
-|              |       |       |          |
-|              |       |       |          |
-
-###### Code
-
-```javascript
-function example () { ... }
-```
-
-###### Visual example
-
-{{example image | thumbnail}}  
-
-
-<br />[Back to top](#wiki-wrapper)<br /><br /><br />
-
-
-
-
-### Callout examples
-
-> 👀 &nbsp; Check something out
-
-> 🚨 &nbsp; Identify a blocker
-
-> ❓ &nbsp; Add a question / note
+> 👀 &nbsp; See box folder <sup>[[r1](#resources)]</sup> for more details

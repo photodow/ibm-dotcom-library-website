@@ -1,6 +1,9 @@
 <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The Markdown Utility is a light text formatting utility that will convert a limited set of markdown to valid HTML markup. Each markdown conversion option can be turned on or off.
+
+By default, this utility will use Carbon Classes and strips out extraneous HTML tags; adopters are given the option to modify the default settings. Refer to technical specs and readme files for additional details.
+
 
 <hr width="40%" />
 
@@ -8,10 +11,6 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
-
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
 
 <br />
 </details>
@@ -28,75 +27,13 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [Resource 1]()
-- r2: [Resource 2]()
-- r3: [Resource 3]()
+- r1: [[Box folder](https://ibm.ent.box.com/folder/101190012021)]
 
 <br />
 </details>
 
 <hr width="40%" />
 
-{{Overview image | full width}}
+<br />
 
-### 1. Level 1
-
-Brief description might go here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum.
-
-{{Scoped image | resize}}
-
-
-#### 1.1 Level 2
-Brief description might go here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum.
-
-{{Scoped image | resize}}
-
-###### Logic
-
-|        | condition  | description  |
-|:-------|:-----------|:-------------|
-| `1.1`  |            |              |
-|        |            |              |
-|        |            |              |
-
-###### States
-
-|   | condition   | value  |
-|:--|:------------|:-------|
-|   | `default`   |        |
-|   | `:hover`    |        |
-|   | `:focus`    |        |
-|   | `:active`   |        |
-|   | `:visited`  |        |
-
-###### Data
-
-|              | data  | type  | default  |
-|:-------------|:------|:------|:---------|
-| `required`   |       |       |          |
-|              |       |       |          |
-|              |       |       |          |
-
-###### Code
-
-```javascript
-function example () { ... }
-```
-
-###### Visual example
-
-{{example image | thumbnail}}  
-
-
-<br />[Back to top](#wiki-wrapper)<br /><br /><br />
-
-
-
-
-### Callout examples
-
-> 👀 &nbsp; Check something out
-
-> 🚨 &nbsp; Identify a blocker
-
-> ❓ &nbsp; Add a question / note
+> 👀 &nbsp; See box folder <sup>[[r1](#resources)]</sup> for more details
