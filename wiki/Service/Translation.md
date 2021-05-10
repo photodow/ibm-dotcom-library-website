@@ -23,7 +23,7 @@ The translation service fetches and stores data in an efficient way, mutates its
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: Translation service [[Box](https://ibm.ent.box.com/folder/110807491301)]
+- r1: [[Box folder](https://ibm.ent.box.com/folder/110807491301)]
 
 <br />
 </details>
