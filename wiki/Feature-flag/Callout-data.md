@@ -1,17 +1,11 @@
 <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
-
 <hr width="40%" />
 
 <!-- toc start --><!-- toc end -->
 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
-
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
 
 <br />
 </details>
@@ -37,4 +31,4 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 <br />
 
-> 👀 &nbsp; See box folder <sup>[[r1](#resources)]</sup> for more details
+> ![image](https://user-images.githubusercontent.com/3793636/117873919-f6faba80-b265-11eb-81a5-039bdcd822e8.png)  See box folder <sup>[[r1](#resources)]</sup> for more details

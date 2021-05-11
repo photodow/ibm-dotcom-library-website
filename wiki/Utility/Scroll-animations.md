@@ -35,4 +35,4 @@ The scroll animations utility can be attached to any HTML element on the page. I
 
 <br />
 
-> 👀 &nbsp; See box folder <sup>[[r1](#resources)]</sup> for more details
+> ![image](https://user-images.githubusercontent.com/3793636/117873919-f6faba80-b265-11eb-81a5-039bdcd822e8.png)  See box folder <sup>[[r1](#resources)]</sup> for more details

@@ -28,7 +28,7 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [Box folder](https://ibm.ent.box.com/folder/135585926149)
+- r1: [Box folder](https://ibm.ent.box.com/folder/137103119718)
 
 <br />
 </details>
@@ -37,4 +37,4 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 
 <br />
 
-> 👀 &nbsp; See box folder <sup>[[r1](#resources)]</sup> for more details
+> ![image](https://user-images.githubusercontent.com/3793636/117873919-f6faba80-b265-11eb-81a5-039bdcd822e8.png)  See box folder <sup>[[r1](#resources)]</sup> for more details
