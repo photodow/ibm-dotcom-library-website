@@ -28,7 +28,7 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [Box folder](#)
+- r1: [Box folder](https://ibm.ent.box.com/folder/90702727404)
 
 <br />
 </details>
