@@ -1,6 +1,6 @@
-`Decorator` <!-- category start --><!-- category end -->
+`Core` <!-- category start --><!-- category end -->
 
-The [[Card in card]] component decorates our [[Card]] component, and provides [[CTA]] functionality to it. The [[Image]] expands to full width while the [[Card]]’s content lays on the grid over the image. This component is good to use in cases where you want to highlight a piece of content.
+Horizontal rules provide thematic breaks between content.
 
 <hr width="40%" />
 
@@ -8,8 +8,6 @@ The [[Card in card]] component decorates our [[Card]] component, and provides [[
 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
-
-- [[CTA]]
 
 <br />
 </details>
@@ -26,7 +24,7 @@ The [[Card in card]] component decorates our [[Card]] component, and provides [[
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [Box folder](https://ibm.ent.box.com/folder/132489332751)
+- r1: [Box folder](https://ibm.ent.box.com/folder/81585819276)
 
 <br />
 </details>

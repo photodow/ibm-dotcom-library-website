@@ -1,6 +1,6 @@
-<!-- category start --><!-- category end -->
+`Decorator` <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The [[Leaving IBM]] component is a modal that pops up when a user clicks a non IBM.com external link to notify them that privacy policies maybe changing, and to help set better expectations.
 
 <hr width="40%" />
 
@@ -9,9 +9,10 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+- Carbon modal <sup>[[r2](#resources)]</sup>
+- Carbon form label <sup>[[r3](#resources)]</sup>
+- Carbon link <sup>[[r4](#resources)]</sup>
+- [[Translation]]
 
 <br />
 </details>
@@ -29,6 +30,9 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   <summary><strong>Resources</strong></summary><br />
 
 - r1: [Box folder](https://ibm.ent.box.com/folder/124606259113)
+- r2: [Carbon modal](https://www.carbondesignsystem.com/components/modal/usage/)
+- r3: [Carbon form label](https://react.carbondesignsystem.com/?path=/story/components-formlabel--default)
+- r4: [Carbon link](https://www.carbondesignsystem.com/components/link/usage/)
 
 <br />
 </details>

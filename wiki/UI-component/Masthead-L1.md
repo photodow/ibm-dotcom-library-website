@@ -1,6 +1,8 @@
-`Decorator` <!-- category start --><!-- category end -->
+`Core` <!-- category start --><!-- category end -->
 
-The [[Card in card]] component decorates our [[Card]] component, and provides [[CTA]] functionality to it. The [[Image]] expands to full width while the [[Card]]’s content lays on the grid over the image. This component is good to use in cases where you want to highlight a piece of content.
+The [[Masthead L1]] component is an optional navigational pattern for IBM.com that allows adopters to add an additional micro navigation across a topic/category of pages.
+
+> ![image](https://user-images.githubusercontent.com/3793636/117873641-a6835d00-b265-11eb-8433-8c9c73a2e999.png) Need to break this work down with maybe an overview page?
 
 <hr width="40%" />
 
@@ -9,10 +11,12 @@ The [[Card in card]] component decorates our [[Card]] component, and provides [[
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[CTA]]
+- [[Masthead L0]] (navigation)
 
 <br />
 </details>
+
+> ![image](https://user-images.githubusercontent.com/3793636/117873641-a6835d00-b265-11eb-8433-8c9c73a2e999.png) Dependency list needs to be re-evaluated
 
 <!-- usedby start -->
 *{{usedby auto populates}}*
@@ -26,7 +30,7 @@ The [[Card in card]] component decorates our [[Card]] component, and provides [[
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [Box folder](https://ibm.ent.box.com/folder/132489332751)
+- r1: [Box folder](https://ibm.ent.box.com/folder/118448193520)
 
 <br />
 </details>

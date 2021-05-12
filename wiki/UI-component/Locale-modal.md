@@ -1,6 +1,6 @@
-<!-- category start --><!-- category end -->
+`Core` <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The [[Locale modal]] is a step by step interface that guides the user through selecting and setting a country and language for their experience across IBM.com.
 
 <hr width="40%" />
 
@@ -9,9 +9,12 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+- [[Expressive modal]]
+- [[Card link]]
+- [[Locale]]
+- [[Link with icon]]
+- Carbon search <sup>[[r2](#resources)]</sup>
+- Carbon icons <sup>[[r3](#resources)]</sup>
 
 <br />
 </details>
@@ -29,6 +32,8 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   <summary><strong>Resources</strong></summary><br />
 
 - r1: [Box folder](https://ibm.ent.box.com/folder/82255256134)
+- r2: [Carbon search](https://www.carbondesignsystem.com/components/search/usage/)
+- r3: [Carbon icons](https://www.carbondesignsystem.com/guidelines/icons/library/)
 
 <br />
 </details>

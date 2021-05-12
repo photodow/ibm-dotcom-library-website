@@ -1,6 +1,8 @@
-<!-- category start --><!-- category end -->
+`Core` <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The [[Masthead L0]] component is a required navigational pattern for IBM.com that displays consistently at the top of each page. It also includes search and profile services for IBM.com.
+
+> ![image](https://user-images.githubusercontent.com/3793636/117873641-a6835d00-b265-11eb-8433-8c9c73a2e999.png) Need to break this work down (e.g. [[navigation]], [[mobile menu]], [[typeahead]], [[search]])
 
 <hr width="40%" />
 
@@ -9,9 +11,12 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+- [[CTA]]
+- [[Mega menu]]
+- [[Tooltip]]
+- [[Profile service]]
+- [[Search typeahead]]
+- [[Translation]]
 
 <br />
 </details>
@@ -28,7 +33,7 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Resources</strong></summary><br />
 
-- r1: [Box folder](https://ibm.ent.box.com/folder/81585819276)
+- r1: [Box folder](https://ibm.ent.box.com/folder/59063660753)
 
 <br />
 </details>

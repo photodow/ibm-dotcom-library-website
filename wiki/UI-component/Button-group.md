@@ -1,6 +1,6 @@
-<!-- category start --><!-- category end -->
+`Core` <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The [[Button group]] is a component that is utilized within IBM.com for grouping one or more Carbon button <sup>[[r2](#resources)]</sup> components together. Width of the buttons will grow/shrink based on the length of the Button content, and the group should match in widths.
 
 <hr width="40%" />
 
@@ -9,9 +9,7 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+- Carbon button <sup>[[r2](#resources)]</sup>
 
 <br />
 </details>
@@ -29,6 +27,7 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   <summary><strong>Resources</strong></summary><br />
 
 - r1: [Box folder](https://ibm.ent.box.com/folder/100581127894)
+- r2: [Carbon button](https://www.carbondesignsystem.com/components/button/usage/)
 
 <br />
 </details>

@@ -1,6 +1,6 @@
-<!-- category start --><!-- category end -->
+`Core` <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The [[Mega menu]] is a component that is used in tandem with the [[Masthead L0]] to help customers navigate throughout the IBM.com experience. The [[Mega menu]] is designed to handle large amounts of navigation items, and other various types of content to aid in the user’s journey.
 
 <hr width="40%" />
 
@@ -9,12 +9,10 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
-
 <br />
 </details>
+
+> ![image](https://user-images.githubusercontent.com/3793636/117873641-a6835d00-b265-11eb-8433-8c9c73a2e999.png) Re-evaluate dependency list
 
 <!-- usedby start -->
 *{{usedby auto populates}}*

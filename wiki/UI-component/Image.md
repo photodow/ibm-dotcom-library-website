@@ -1,6 +1,6 @@
-<!-- category start --><!-- category end -->
+`Core` <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The [[Image]] component is a wrapper that at its base adds an image to the page. It allows adopters to pass in multiple images it can render depending on the various breakpoints standardizing the image data model.
 
 <hr width="40%" />
 
@@ -9,9 +9,8 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+- `<picture>` <sup>[[r2](#resources)]</sup>
+- Carbon 2x grid <sup>[[r3](#resources)]</sup>
 
 <br />
 </details>
@@ -29,6 +28,8 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   <summary><strong>Resources</strong></summary><br />
 
 - r1: [Box folder](https://ibm.ent.box.com/folder/94834513317)
+- r2: [`<picture>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
+- r3: [Carbon 2x grid](https://www.carbondesignsystem.com/guidelines/2x-grid/overview/)
 
 <br />
 </details>

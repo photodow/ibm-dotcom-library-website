@@ -1,6 +1,6 @@
-<!-- category start --><!-- category end -->
+`Decorator` <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The [[Tag group]] is a component that is utilized within IBM.com for grouping two or more tag components together within a wrapping list.
 
 <hr width="40%" />
 
@@ -9,9 +9,8 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+- [[Tag link]]
+- Carbon tag <sup>[[r2](#resources)]</sup>
 
 <br />
 </details>
@@ -29,6 +28,7 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   <summary><strong>Resources</strong></summary><br />
 
 - r1: [Box folder](https://ibm.ent.box.com/folder/136834919144)
+- r2: [Carbon tag](https://ibm.ent.box.com/folder/136834919144)
 
 <br />
 </details>

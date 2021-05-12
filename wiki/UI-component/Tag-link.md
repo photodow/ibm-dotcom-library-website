@@ -1,6 +1,6 @@
 <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+[[Tag link]] is a short visually contained word or two. It usually indicates some sort of category that can be interacted with as a link or a button to take some sort of action upon (e.g. filtering). While heavily influenced by Carbon tag <sup>[[r2](#resources)]</sup>, this component deviates in functionality and some basic visual differences.
 
 <hr width="40%" />
 
@@ -29,6 +29,7 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   <summary><strong>Resources</strong></summary><br />
 
 - r1: [Box folder](https://ibm.ent.box.com/folder/136507840813)
+- r2: [Carbon tag](https://ibm.ent.box.com/folder/136834919144)
 
 <br />
 </details>

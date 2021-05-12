@@ -1,6 +1,6 @@
-<!-- category start --><!-- category end -->
+`Core` <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The [[Carousel]] component is a reusable component that can be used in various different situations. It is great when you have a large number of items you want to present, and only a small amount of vertical space to lay it out. It pages through multiple panels of the same type of content upon interaction.
 
 <hr width="40%" />
 
@@ -9,9 +9,8 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+- Carbon pagination <sup>[[r2](#resources)]</sup>
+- Carbon button <sup>[[r3](#resources)]</sup>
 
 <br />
 </details>
@@ -29,6 +28,8 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
   <summary><strong>Resources</strong></summary><br />
 
 - r1: [Box folder](https://ibm.ent.box.com/folder/121172699187)
+- r2: [Carbon pagination](https://www.carbondesignsystem.com/components/pagination/usage/)
+- r3: [Carbon button](https://www.carbondesignsystem.com/components/button/usage/)
 
 <br />
 </details>
