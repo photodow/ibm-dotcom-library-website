@@ -1,6 +1,6 @@
-<!-- category start --><!-- category end -->
+`Core` <!-- category start --><!-- category end -->
 
-The Callout sub-pattern is a core pattern meant to offset and call attention to a piece of content within the page by setting it apart using a high-contrast moment.
+The [[Callout]] component is a core component meant to offset and call attention to a piece of content within the page by setting it apart using a high-contrast moment.
 
 <hr width="40%" />
 
@@ -9,9 +9,7 @@ The Callout sub-pattern is a core pattern meant to offset and call attention to 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+- Carbon 2x Grid <sup>[[r2](#resources)]</sup>
 
 <br />
 </details>
@@ -29,6 +27,7 @@ The Callout sub-pattern is a core pattern meant to offset and call attention to 
   <summary><strong>Resources</strong></summary><br />
 
 - r1: [Box folder](https://ibm.ent.box.com/folder/110530875791)
+- r2: [Carbon 2x Grid](https://www.carbondesignsystem.com/guidelines/2x-grid/overview/)
 
 <br />
 </details>

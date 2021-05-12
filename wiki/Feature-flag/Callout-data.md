@@ -1,4 +1,6 @@
-<!-- category start --><!-- category end -->
+`Decorator` <!-- category start --><!-- category end -->
+
+[[Callout data]] depends on the [[Callout]] component to emphasize a data point in a big way.
 
 <hr width="40%" />
 
@@ -6,6 +8,8 @@
 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
+
+- [[Callout]]
 
 <br />
 </details>

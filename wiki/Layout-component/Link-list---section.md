@@ -1,6 +1,6 @@
-<!-- category start --><!-- category end -->
+`Decorator` <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The [[Link list section]] provides additional resources based on the [[Link list]] component, but expands its emphasis to the entire section of a page. Usually used as a link farm at the end of the page.
 
 <hr width="40%" />
 
@@ -9,9 +9,8 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+- [[Content section]]
+- [[Link list]]
 
 <br />
 </details>

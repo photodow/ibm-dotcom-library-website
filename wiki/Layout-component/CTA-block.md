@@ -1,6 +1,6 @@
-<!-- category start --><!-- category end -->
+`Decorator` <!-- category start --><!-- category end -->
 
-Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc pulvinar non felis non rutrum. Vestibulum fringilla imperdiet elit non aliquam. Cras consequat in mi non facilisis. Nam pellentesque ante urna, vitae venenatis sem placerat sit amet. Praesent dignissim tristique lobortis. Donec dignissim est in odio auctor, non ultricies diam bibendum. Nam cursus venenatis rutrum.
+The [[CTA block]] generally is used as a navigational component to help guide the user towards a next step of action. The [[CTA]] has a couple different ways to show these actions including via a primary [[Button]], list of [[Content items]] or the [[Link list]] component.
 
 <hr width="40%" />
 
@@ -9,9 +9,11 @@ Description goes here. Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+- [[Content block]]
+- [[Content item]]
+- [[Link list]]
+- [[Image with caption]]
+- [[Video]]
 
 <br />
 </details>

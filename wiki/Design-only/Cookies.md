@@ -1,4 +1,6 @@
-<!-- category start --><!-- category end -->
+`Decorator` <!-- category start --><!-- category end -->
+
+The cookies component is present on every page of IBM.com and allows the user to handle how their cookies how handled throughout their experience.
 
 <hr width="40%" />
 
@@ -6,10 +8,9 @@
 
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
-
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+  
+- Carbon modal <sup>[[r2](#resources)]</sup>
+- [[Accordion]]
 
 <br />
 </details>
@@ -27,6 +28,7 @@
   <summary><strong>Resources</strong></summary><br />
 
 - r1: [Box folder](https://ibm.ent.box.com/folder/135585926149)
+- r2: [Carbon modal](https://www.carbondesignsystem.com/components/modal/usage/)
 
 <br />
 </details>

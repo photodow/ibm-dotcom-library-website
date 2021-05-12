@@ -1,4 +1,6 @@
-<!-- category start --><!-- category end -->
+`Decorator` <!-- category start --><!-- category end -->
+
+The [[Content block card static]] is an experimental component extending [[Content block cards]] and adding to it.
 
 <hr width="40%" />
 
@@ -7,9 +9,8 @@
 <details open="true">
   <summary><strong>Dependencies</strong> (<!-- dependencyCount start --><!-- dependencyCount end -->)</summary><br />
 
-- [[Component name 1]]
-- [[Component name 2]]
-- [[Component name 3]]
+- [[Content block cards]]
+- [[Content item]]
 
 <br />
 </details>
